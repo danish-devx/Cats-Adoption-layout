@@ -1,0 +1,159 @@
+.navbar{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(102, 68, 43);
+    border: 5px  rgb(43, 26, 14) solid;
+    position: fixed;
+    top: 0px;
+}
+
+.firstdiv{
+    
+     /* width: 50%;
+    height: 70px; */
+    border: 1px red solid;
+    width: 6%;
+    height: 70px;
+    display: inline-block;
+    border: none;
+    margin-top: 15px;
+    margin-left: 15px;
+   display: inline-block;
+}
+
+.seconddiv{
+    /* border: 1px solid red;
+    width: 70%;
+    height: 70px; */
+   text-align: right ;
+   display: inline-block;
+  margin-left: 560px;
+}
+
+.logo{
+    width: 100%;
+    height: 55px;
+    border-radius: 50%;
+    margin-top: 10px;
+    
+
+
+}
+
+.logoname{
+  color: white;
+  font-size: 45px;
+
+
+}
+
+
+a{
+    color: white;
+    margin: 48px;
+    font-size: 25px;
+    text-decoration: none;
+    
+    
+
+
+}
+
+button{
+    
+    margin-right: 73px;
+    font-size: 25px ;
+    border-radius: 10px;
+    border-width: 5px;
+
+}
+
+.thirddiv{
+    width: 100%;
+    height: 750px;
+    background-image: url(images/photo-1515002246390-7bf7e8f87b54.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: black;
+    font-size: 70px;
+    margin-top: 260px;
+    margin-left: 65px;
+    display: inline-block;
+
+}
+
+
+p{
+    color: black;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-left: 110px;
+}
+
+.adoptmeow{
+    font-size: 30px ;
+    border-width: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 250px;
+
+}
+
+.a{
+    border: 1px solid red;
+    border: none;
+    width: 35%;
+    height: 600px;
+    display: inline-block;
+    margin: 55px;
+    
+}
+
+#image{
+    width: 100%;
+    height: 100%;
+}
+
+.b{
+     border: 1px solid red;
+     border: none;
+    width: 45%;
+    height: 830px;
+    display: inline-block;
+    margin: 74px;
+    
+    
+}
+
+.heading{
+    color: black;
+    font-size: 57px;
+    margin-bottom: 65px;
+    
+}
+
+.para{
+    color: black;
+    font-size: 27px;
+    margin-bottom: 74px;
+}
+
+
+
+li{
+    color: black;
+    font-size: 20px;
+    margin-left: 91px;
+    margin-bottom: 10px;
+    
+}
+a:hover{
+    color: black;
+}
+
+button:hover{
+    background-color: rgb(102, 68, 43) ;
+}
